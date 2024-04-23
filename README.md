@@ -24,4 +24,4 @@ motrix的端口修改如下：
 4.点击发送后请稍等一下等他解析一下就有速度了
 五，求打赏
 搭建不易
-![image](https://github.com/linweikang666/PanDownload/assets/116931084/84debb6e-39be-4f8b-8ae8-bac63dc60c16)
+![image](https://github.com/linweikang666/PanDownload/assets/116931084/1ce07428-4951-4679-8e7a-5667a190f00d)
